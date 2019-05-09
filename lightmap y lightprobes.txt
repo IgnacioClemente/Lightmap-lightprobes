@@ -1,7 +1,0 @@
-el lightmap se pone sobre un material, se pone sobre un manto invicible y quema las luces y las sombras
-no requiere proceso, menos procesos mas memoria
-
-lightprobe es un intermedio entre lightmap y la luz quemada en tiempo real, son puntos en el espacio
-que interpretan la luz y a raiz de eso crea planos espaciales en los cuales un objeto entre 4 puntos o 3(pero es raro)
-esta dentro de un plano espacial y es afectado por este lightprobe, si salis de los 4 cuatro puntos se va toda la
-iluminacion, consume un poco de recurso y un poco de proceso, CPU y memoria
